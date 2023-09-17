@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ProtoLangCS": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Users\\lando\\Desktop\\test.pto\""
+    }
+  }
+}
